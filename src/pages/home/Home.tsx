@@ -11,7 +11,7 @@ function Home() {
       </div>
       <div className="flex justify-end object-cover w-5/5">
         <img className=""
-          src="https://images.pexels.com/photos/159211/headache-pain-pills-medication-159211.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" />
+          src="https://images.pexels.com/photos/5910953/pexels-photo-5910953.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" />
       </div>
     </div>
   )

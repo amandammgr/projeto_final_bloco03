@@ -5,11 +5,11 @@ function Navbar() {
 
     return (
 
-        <div className='flex justify-center bg-green-400 py-4 w-full text-white'>
+        <div className='flex justify-center bg-cyan-600 py-4 w-full text-white'>
             <div className="flex justify-between text-lg container">
                 <Link to='/home'>
                     <img
-                        src="https://www.svgrepo.com/show/257974/pills-pill.svg"
+                        src="https://www.svgrepo.com/show/14746/drugs-on-a-pharmacy-truck-for-delivery.svg"
                         alt="Logo"
                         className='w-20'
                     />
@@ -33,7 +33,7 @@ function Navbar() {
                 <div className='flex gap-4 py-4'>
                     Produtos
                     <Link to='/categorias' className='hover:underline'>Categorias</Link>
-                    <Link to='/cadcategoria' className='hover:underline'>Cadastrar/Atualizar Categoria</Link>
+                    <Link to='/cadcategoria' className='hover:underline'>Cadastrar Categoria</Link>
                     <User size={32} weight='bold' />
                     <ShoppingCart size={32} weight='bold' />
                 </div>
