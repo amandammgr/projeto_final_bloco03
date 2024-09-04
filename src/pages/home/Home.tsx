@@ -9,8 +9,7 @@ function Home() {
           Navegue por nossos <Link to="/produtos" className="cursor-pointer hover:underline">produtos disponíveis!</Link>
         </p>
       </div>
-
-      <div className="flex justify-end object-cover w-2/5">
+      <div className="flex justify-end object-cover w-5/5">
         <img className=""
           src="https://images.pexels.com/photos/159211/headache-pain-pills-medication-159211.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" />
       </div>
